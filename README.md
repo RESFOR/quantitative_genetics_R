@@ -4,4 +4,4 @@
 # The outputs of this R-script are the genetic and residual (co)variance components, and the breeding values and its accuracies for both models. 
 # As an example, the RES-FOR lodgepole pine dataset (data_multi-trait_multi-site.txt) with 3 traits (DBH30, HT30, NSWGR36) and 4 sites (JUDY, VIRG, SWAN, and TIME)
 # and the H-matrix calculated in blupf90 programs using the 8K ancestry selected SNPs.
-# data_multi-trait_multi-site.txt was the demo dataset for the multi-trait and multi-site R script
+# data_multi-trait_multi-site.txt is the demo dataset for the multi-trait and multi-site R script
