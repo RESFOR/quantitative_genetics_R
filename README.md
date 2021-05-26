@@ -13,3 +13,7 @@
 # This R-script fit the standard, and the spatial (spline and autoregressive -AR1-) and/or competition individual-tree mixed models using the breedR R-package. Moreover, this R-script presents several modalities for diagnosing spatial and competition problems in forest genetic trials. Finally, the last lines of this R-script calculats the Design and Spatial phenotype adjustments. We also provide the total height at age 30 from the RESFOR spruce Red Earth (REDE) site as an example (data_spatial_competition_correction.txt).
 
 # data_spatial_competition_correction.txt is the demo dataset for the Spatial-competition-correction-mixed-model.R
+
+# AIM.coefficient.R performs SNP variable selection based on the AIM (ancestry informative marker, Rosenberg et al. 2003)
+
+# AIM.coefficient.R copyright @ Blaise Ratcliffe (b.ratcliffe@gmail.com)
