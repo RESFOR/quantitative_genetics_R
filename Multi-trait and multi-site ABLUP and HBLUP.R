@@ -1,6 +1,6 @@
 # Title: Multi-trait multi-site ABLUP and HBLUP individual-tree mixed models using breedR R-package: an example using three traits (DBH30, HT30, NSWGR36) 
 #        and 4 sites (JUDY, VIRG, SWAN, and TIME) from the RES-FOR lodgepole pine dataset.
-# Author: Eduardo Pablo Cappa
+# Author: Eduardo Pablo Cappa (cappa.eduardo@inta.gob.ar)
 # Date: "Abril 29th, 2019"
 # Revised: "October 09th, 2019"  Cheking code
 # Revised to publish: "May 25th, 2021"
