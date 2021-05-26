@@ -1,6 +1,7 @@
 # Title: Standard, Spatial and competition individual-tree mixed models / Spatial and Competition diagnosis using breedR R-package:
 #        an example using total height trait at 30 age for the RES-FOR Red Earth (REDE) site.
-# Author: Eduardo Pablo Cappa
+# Author: Eduardo Pablo Cappa (cappa.eduardo@inta.gob.ar)
+# Copyright @ Dr. Eduardo Pable Cappa
 # Date: "February 21th, 2019"
 # Revised: "April 10th, 2019"
 # Revised to publish: "May 25th, 2021"
