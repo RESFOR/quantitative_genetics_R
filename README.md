@@ -18,6 +18,8 @@
 
 # AIM.coefficient.R copyright @ Blaise Ratcliffe (b.ratcliffe@gmail.com)
 
+# Multiple-site Single-trait GBLUP.R performs mixed models using breedR R package. Copyright @ Dr. Eduardo Pable Cappa (cappa.eduardo@inta.gob.ar)
+
 # The G_matrix_RESFOR_lodgepole_pine.RDS is the genomic relationship matrix of 1,490 lodgepole pine trees genotyped by 25,099 GBS SNPs. Copyright @ Dr. Eduardo Pablo Cappa (cappa.eduardo@inta.gob.ar). 
 
 # The G matrix was used in the R script that fits a genomic-based GBLUP model using the breedR R-package. The output of this R-script includes the genetic and residual (co)variance components (and function of them, heritability estimates and genetic correlations between sites -GxE-), and the breeding values and its´ standard errors from the GBLUP model.
