@@ -17,3 +17,7 @@
 # AIM.coefficient.R performs SNP variable selection based on the AIM (ancestry informative marker, Rosenberg et al. 2003)
 
 # AIM.coefficient.R copyright @ Blaise Ratcliffe (b.ratcliffe@gmail.com)
+
+# The G_matrix_RESFOR_lodgepole_pine.RDS is the genomic relationship matrix of 1,490 lodgepole pine trees genotyped by 25,099 GBS SNPs. Copyright @ Dr. Eduardo Pablo Cappa (cappa.eduardo@inta.gob.ar). 
+
+# The G matrix was used in the R script that fits a genomic-based GBLUP model using the breedR R-package. The output of this R-script includes the genetic and residual (co)variance components (and function of them, heritability estimates and genetic correlations between sites -GxE-), and the breeding values and its´ standard errors from the GBLUP model.
