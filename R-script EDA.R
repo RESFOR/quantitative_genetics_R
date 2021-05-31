@@ -1,7 +1,7 @@
 # Title: EXPLORATORY DATA ANALYSIS (EDA): an example using three traits (DBH30, HT30, WGR36) 
 #        and 4 sites (JUDY, VIRG, SWAN, and TIME) from the RES-FOR lodgepole pine dataset.
 # Author: Eduardo Pablo Cappa (cappa.eduardo@inta.gob.ar)
-# Copyright @ Dr. Eduardo Pable Cappa
+# Copyright @ Dr. Eduardo Pablo Cappa (cappa.eduardo@inta.gob.ar)
 # Revised: "April 12th, 2019"
 # Revised to publish: "May 28th, 2021"
 
@@ -14,7 +14,7 @@ if(any(!has)) install.packages(wants[!has])
 suppressPackageStartupMessages(sapply(wants, require, character.only=TRUE))
 
 # 1. READ THE RAW DATA
-data<-read.table(file="raw_data.txt", head=TRUE)
+data<-read.table(file="data_EDA_analysis.txt", head=TRUE) # read data for the EDA analysis; the example here uses the data_EDA_analysis.txt inlcuded in the GitHub
 
 # Number of the column where start the fenotyic information 
 start <- 16
