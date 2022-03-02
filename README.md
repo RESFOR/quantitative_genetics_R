@@ -8,6 +8,8 @@
 
 # data_multi-trait_multi-site.txt is the demo dataset for the multi-trait and multi-site R script.
 
+# White_Spruce_Phenotype_Pedigree_PLoS2022.txt is the tree pedigree and phenotype data published in Cappa et al. PLoS 2020.
+
 # Spatial-competition-correction-mixed-model.R Copyright @ Dr. Eduardo Pablo Cappa (cappa.eduardo@inta.gob.ar).
 
 # This R-script fit the standard, and the spatial (spline and autoregressive -AR1-) and/or competition individual-tree mixed models using the breedR R-package. Moreover, this R-script presents several modalities for diagnosing spatial and competition problems in forest genetic trials. Finally, the last lines of this R-script calculats the Design and Spatial phenotype adjustments. We also provide the total height at age 30 from the RESFOR spruce Red Earth (REDE) site as an example (data_spatial_competition_correction.txt).
