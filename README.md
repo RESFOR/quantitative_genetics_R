@@ -8,7 +8,9 @@
 
 # data_multi-trait_multi-site.txt is the demo dataset for the multi-trait and multi-site R script.
 
-# White_Spruce_Phenotype_Pedigree_PLoS2022.txt is the tree pedigree and phenotype data published in Cappa et al. PLoS 2020.
+# White_Spruce_Phenotype_Pedigree_Heredity2023.txt is the tree pedigree and phenotype data published in Cappa et al. Heredity 2025.
+
+# White_Spruce_Phenotype_Pedigree_PLoS2022.txt is the tree pedigree and phenotype data published in Cappa et al. PLoS 2022 (https://doi.org/10.1371/journal.pone.0264549). 
 
 # Spatial-competition-correction-mixed-model.R Copyright @ Dr. Eduardo Pablo Cappa (cappa.eduardo@inta.gob.ar).
 
